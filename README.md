@@ -1,6 +1,6 @@
 # 🏋️ Gym Membership Management App (Java GUI)
 
-This project was developed as part of my Programming module at [Your College Name] using Java. The application provides a simple GUI to manage gym memberships, including member registration, attendance tracking, membership upgrades, and more. It utilizes **Swing GUI components** and **event-driven programming** through action listeners.
+This project was developed as part of my Programming module at Islington College using Java. The application provides a simple GUI to manage gym memberships, including member registration, attendance tracking, membership upgrades, and more. It utilizes **Swing GUI components** and **event-driven programming** through action listeners.
 
 ## 🎯 Purpose
 
