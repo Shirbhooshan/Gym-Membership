@@ -1,0 +1,14 @@
+ID: 1
+Name: Shirbhooshan Raopadhyay
+Location: Lalitpur
+Phone: 980123456
+Email: S@gmail.com
+Start Date: 2/February/1996
+Plan: Premium
+Price: Rs.50,000
+Attendance: 0
+Loyalty Points: 0.0
+Status: Disabled
+FullPayment: false
+Discount Amount: 0.0
+Amount paid: 45000.0
